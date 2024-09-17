@@ -10,7 +10,7 @@ This guide provides instructions on how to set up and use the Advanced SIEM Syst
 ## Installation
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/Advanced-SIEM-System.git
+    git clone https://github.com/Barrosleo/Advanced-SIEM-System.git
     ```
 
 2. **Navigate to the Project Directory**:
